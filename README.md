@@ -371,6 +371,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Utilities
 
+* [qarmin/czkawka](https://github.com/qarmin/czkawka) — System cleaner utility to remove duplicates, empty folders, similar images etc. using GTK. [![GitHub Actions](https://github.com/qarmin/czkawka/workflows/Publish/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 * [aleshaleksey/AZDice](https://github.com/aleshaleksey/AZDice) — A dice roll success distribution generator for tabletop homebrewers. [![build badge](https://api.travis-ci.org/aleshaleksey/AZDice.svg?branch=master)](https://travis-ci.org/aleshaleksey/AZDice)
 * [yaa110/cb](https://github.com/yaa110/cb) — Command line interface to manage clipboard [![Build Status](https://api.travis-ci.org/yaa110/cb.svg?branch=master)](https://travis-ci.org/yaa110/cb)
 * [brycx/checkpwn](https://github.com/brycx/checkpwn) — A Have I Been Pwned (HIBP) command-line utility tool that lets you easily check for compromised accounts and passwords.
